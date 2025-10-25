@@ -46,7 +46,6 @@ Unlike normal binary counters, the output transitions are manually designed to s
 | 4 | 1 | 1 | 0 | 110 | Custom transition |
 | 5 | 0 | 0 | 0 | 000 | Reset to initial |
 
-*(🧩 Example sequence may vary based on logic design.)*
 
 ---
 
