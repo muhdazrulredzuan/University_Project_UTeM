@@ -10,7 +10,6 @@ The circuit was developed and tested in **NI Multisim**, demonstrating knowledge
   <img src="Synchronous_Abnormal_Counter.png" alt="Synchronous Abnormal Counter Circuit" width="500"/>
 </p>
 
-*(📸 Replace the image above with your actual Multisim circuit screenshot once uploaded.)*
 
 ---
 
