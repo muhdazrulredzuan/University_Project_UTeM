@@ -15,7 +15,7 @@ The system automatically controls **water filling, heating, mixing, and draining
 ---
 
 ## 📄 Project Report
-📘 [View Report (PDF)](Automatic_Water_Tank_Report.pdf)
+📘 [View Report (PDF)](Automatic_Water_Tank_Simulation.pdf)
 
 ---
 
