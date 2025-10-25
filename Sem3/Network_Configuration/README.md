@@ -33,7 +33,7 @@ Each router:
 |------|------|--------------|
 | 📘 **Report** | [View Report (PDF)](Network_Configuration_Report.pdf) | Contains detailed explanation of network setup & configuration steps |
 | 💻 **Packet Tracer File** | [Open Network_Config.pkt](Network_Configuration.pkt) | Simulation file for Cisco Packet Tracer |
-| 🧠 **Slides** | [View Presentation (PPTX)](Network_Configuration_Slides.pptx) | Project presentation slides |
+| 🧠 **Slides** | [View Presentation (PPTX)](Network_Configuration_Slide.pptx) | Project presentation slides |
 
 ---
 
