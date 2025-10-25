@@ -9,14 +9,14 @@ It serves as a fundamental project for understanding **analog amplification**, *
 
 ## 🖼️ Project Image
 <p align="center">
-  <img src="Audio_Amplifier_Circuit.jpg" alt="Audio Amplifier Circuit" width="500"/>
+  <img src="Audio_Amplifier.jpg" alt="Audio Amplifier Circuit" width="500"/>
 </p>
 
 
 ---
 
 ## 📄 Project Report
-📘 [View Report (PDF)](Audo_Amplifier_Circuit_Report.pdf)
+📘 [View Report (PDF)](Audio_Amplifier_Circuit_Report.pdf)
 
 ---
 
