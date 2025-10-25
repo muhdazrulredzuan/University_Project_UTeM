@@ -23,6 +23,7 @@ Each folder is organized by semester, and every project includes its correspondi
 - **Network Configuration with NTP, SSH, and OSPF Authentication** – Cisco network setup and configuration project.  
 - **MAP 201 & 202 Project (HMI)** – Industrial automation project using CX-Programmer and HMI interface.  
 - **Smart Garden System** – LabVIEW-based project for automatic watering and monitoring system.
+- **Smaart Home** - Esp32 automated and monitoring condition in home make the home smart.
 
 ---
 
@@ -47,3 +48,4 @@ Each folder is organized by semester, and every project includes its correspondi
 **Name:** Mohd Azrul Redzuan  
 **University:** Universiti Teknikal Malaysia Melaka (UTeM)  
 **Faculty:** Faculty of Engineering Technology (FTK)
+
