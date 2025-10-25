@@ -7,10 +7,9 @@ It is powered by a **9V battery** and built using **S9013 transistors**, **RC ti
 
 ## 🖼️ Project Image
 <p align="center">
-  <img src="https://github.com/muhdazrulredzuan/university/blob/main/Semester_1/Flip_Flop_Circuit/Flip-Flop_Circuit.jpg" alt="Flip-Flop Circuit Project" width="500"/>
+  <img src="Flip-Flop_Circuit.png" alt="Flip-Flop Circuit Project" width="500"/>
 </p>
 
-*(📸 Replace the image link above with your actual project photo once uploaded.)*
 
 ---
 
