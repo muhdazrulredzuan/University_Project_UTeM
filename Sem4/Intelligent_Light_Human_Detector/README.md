@@ -16,7 +16,7 @@ It aims to improve **energy efficiency** and **automation control** using motion
 
 
 <p align="center">
-  <img src="Intelligent_Light_Human_Dectector.png" 
+  <img src="Intelligent_Light_Human_Detector.png" 
        alt="Intelligent Light Human Detector Prototype" 
        width="500"/>
 </p>
@@ -30,7 +30,7 @@ It aims to improve **energy efficiency** and **automation control** using motion
 | File Type | Description | Link |
 |------------|-------------|------|
 | 🧾 Report | Detailed project documentation and analysis | [View Report](Intelligent_Light_Human_Detector_Report.pdf) |
-| 💻 Source Code | Full program source for the microcontroller | [View Code](project.ino) |
+| 💻 Source Code | Full program source for the microcontroller | [View Code](project) |
 
 ---
 
