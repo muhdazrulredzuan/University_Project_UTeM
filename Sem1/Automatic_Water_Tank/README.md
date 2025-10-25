@@ -10,7 +10,6 @@ The system automatically controls **water filling, heating, mixing, and draining
   <img src="Automatic_Water_Tank.png" alt="Automatic Water Tank Project" width="500"/>
 </p>
 
-*(📸 Replace the image link above with your actual project photo once uploaded.)*
 
 ---
 
