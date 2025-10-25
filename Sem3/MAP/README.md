@@ -10,17 +10,19 @@ This project consists of two main parts:
 1. PLC logic programming using **Ladder Diagram** for automation sequences.  
 2. HMI interface design for visual feedback and manual control.  
 
-<p align="center">
-  <span style="display:inline-block; text-align:center;">
-    <b>MAP 201</b><br>
-    <img src="MAP_201.png" alt="MAP201" width="280"/>
-  </span>
-  &nbsp;&nbsp;
-  <span style="display:inline-block; text-align:center;">
-    <b>MAP 202</b><br>
-    <img src="MAP_202.png" alt="MAP202" width="280"/>
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>MAP 201</b><br>
+      <img src="MAP_201.png" alt="MAP201" width="280"/>
+    </td>
+    <td align="center">
+      <b>MAP 202</b><br>
+      <img src="MAP_202.png" alt="MAP202" width="280"/>
+    </td>
+  </tr>
+</table>
+
 
 
 The system simulates a **Pick and place**, **Sorting**, and **Cylinder operatiom** that can be monitored and controlled via HMI.
