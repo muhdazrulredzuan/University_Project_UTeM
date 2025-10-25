@@ -19,7 +19,7 @@ The system displays live information such as **bus schedules, current locations,
 ---
 
 ## 💾 Source Code
-[⬇️ **Download Source Code (.zip)**](UTeM_Bus_Monitoring_System.py)
+[⬇️ **Download Source Code**](UTeM_Bus_Monitoring_System.py)
 
 ---
 
