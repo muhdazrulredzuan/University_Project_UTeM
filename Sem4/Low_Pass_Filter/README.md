@@ -22,7 +22,7 @@ The circuit allows low-frequency signals to pass while attenuating high-frequenc
 ## 🖼️ Circuit Diagram  
 
 <p align="center">
-  <img src="Low_Pass_Filter_circuit.png" 
+  <img src="Low_Pass_Filter.png" 
        alt="Active Low Pass Filter Circuit" 
        width="500"/>
 </p>
