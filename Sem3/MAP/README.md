@@ -11,17 +11,16 @@ This project consists of two main parts:
 2. HMI interface design for visual feedback and manual control.  
 
 <p align="center">
-  <div style="display:inline-block; text-align:center;">
+  <span style="display:inline-block; text-align:center;">
     <b>MAP 201</b><br>
     <img src="MAP_201.png" alt="MAP201" width="280"/>
-  </div>
+  </span>
   &nbsp;&nbsp;
-  <div style="display:inline-block; text-align:center;">
+  <span style="display:inline-block; text-align:center;">
     <b>MAP 202</b><br>
     <img src="MAP_202.png" alt="MAP202" width="280"/>
-  </div>
+  </span>
 </p>
-
 
 
 The system simulates a **Pick and place**, **Sorting**, and **Cylinder operatiom** that can be monitored and controlled via HMI.
