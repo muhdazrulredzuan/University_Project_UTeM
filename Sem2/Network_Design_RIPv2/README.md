@@ -7,7 +7,7 @@ It focuses on **dynamic routing**, **IP addressing**, and **inter-router communi
 
 ## 🖼️ Network Topology
 <p align="center">
-  <img src="Network_Planning_Design._RIPv2.png" alt="Network Planning Design RIPv2 Topology" width="550"/>
+  <img src="Network_Planning_Design_RIPv2.png" alt="Network Planning Design RIPv2 Topology" width="550"/>
 </p>
 
 
