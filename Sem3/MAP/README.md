@@ -7,20 +7,23 @@ It demonstrates real-time monitoring and process control using **CX-Programmer**
 
 ## 🖼️ Project Overview
 This project consists of two main parts:
-1. **MAP201** – PLC logic programming using **Ladder Diagram** for automation sequences.  
-2. **MAP202** – HMI interface design for visual feedback and manual control.  
+1. PLC logic programming using **Ladder Diagram** for automation sequences.  
+2. HMI interface design for visual feedback and manual control.  
 
 <p align="center">
-  <img src="MAP_201.png" 
-       alt="MAP201" 
-       width="280"/> &nbsp;&nbsp;
-  <img src="MAP_202.png" 
-       alt="MAP202" 
-       width="280"/>
+  <div>
+    <b>MAP 201</b><br>
+    <img src="MAP_201.png" alt="MAP 201" width="280"/>
+  </div>
+  &nbsp;&nbsp;
+  <div>
+    <b>MAP 202</b><br>
+    <img src="MAP_202.png" alt="MAP 202" width="280"/>
+  </div>
 </p>
-  
 
-The system simulates a **tank filling process**, **temperature control**, and **motor operation** that can be monitored and controlled via HMI.
+
+The system simulates a **Pick and place**, **Sorting**, and **Cylinder operatiom** that can be monitored and controlled via HMI.
 
 ---
 
