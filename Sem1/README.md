@@ -5,7 +5,7 @@ Faculty of Engineering Technology (FTK).
 
 ---
 
-## 🔁 [Flip-Flop Circuit](./Flip_Flop_Circuit)
+## 🔁 [Flip-Flop Circuit](./Flip-Flop_Circuit)
 A simple transistor-based flip-flop circuit using S9013 transistors, potentiometers, LEDs, and a buzzer powered by a 9V battery.
 
 ---
@@ -15,7 +15,7 @@ A fully simulated CoDeSys Ladder Diagram project that automates water filling, h
 
 ---
 
-## 🔊 [Audio Amplifier Circuit](./Audio_Amplifier_Circuit)
+## 🔊 [Audio Amplifier Circuit](./Audio_Amplifier)
 An LM386-based amplifier circuit that amplifies microphone input to drive a small speaker.
 
 ---
