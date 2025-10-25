@@ -26,6 +26,7 @@ The system includes:
 |------|------|-------------|
 | 📘 **Report** | [View Report (PDF)](Smart_Garden_Report.pdf) | Detailed explanation of system design, sensors, and automation logic |
 | 💻 **LabVIEW File** | [Download SmartGarden.vi](Smart_Garden.vi) | LabVIEW project file to run the smart garden simulation |
+| 📊 **Presentation Slides** | [View Slides (PPTX)](Smart_Garden_Slide.pptx) | PowerPoint presentation of the project |
 
 ---
 
