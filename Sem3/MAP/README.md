@@ -25,7 +25,7 @@ This project consists of two main parts:
 
 
 
-The system simulates a **Pick and place**, **Sorting**, and **Cylinder operatiom** that can be monitored and controlled via HMI.
+The system simulates a **Pick and place**, **Sorting**, and **Cylinder operation** that can be monitored and controlled via HMI.
 
 ---
 
@@ -40,17 +40,22 @@ The system simulates a **Pick and place**, **Sorting**, and **Cylinder operatiom
 ## 🖼️ View HMI
 Here are additional screenshots from the HMI interface:
 
-<p align="center">
-  <img src="Main_Channel_HMI.png" 
-       alt="HMI Main Channel" 
-       width="280"/> &nbsp;
-  <img src="MAP_201_HMI.png" 
-       alt="HMI MAP 201" 
-       width="280"/> &nbsp;
-  <img src="MAP_202_HMI.png" 
-       alt="HMI MAP 202" 
-       width="280"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Main Channel HMI</b><br>
+      <img src="Main_Channel_HMI.png" alt="HMI Main Channel" width="280"/>
+    </td>
+    <td align="center">
+      <b>MAP 201 HMI</b><br>
+      <img src="MAP_201_HMI.png" alt="HMI MAP 201" width="280"/>
+    </td>
+    <td align="center">
+      <b>MAP 202 HMI</b><br>
+      <img src="MAP_202_HMI.png" alt="HMI MAP 202" width="280"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
