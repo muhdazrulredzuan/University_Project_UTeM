@@ -21,7 +21,6 @@ It aims to improve **energy efficiency** and **automation control** using motion
        width="200"/>
 </p>
 
-*Figure: Prototype setup of the Intelligent Light Human Detector.*
 
 ---
 
