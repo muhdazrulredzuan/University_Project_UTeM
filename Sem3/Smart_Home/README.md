@@ -5,12 +5,14 @@ It integrates sensors, actuators, and a mobile app interface to demonstrate IoT-
 
 ---
 
-## 🖼️ Project Overview
+## 🖼️ Photo With Supervisor
+
 <p align="center">
   <img src="Smart_Home.jpg" 
        alt="Smart Home with Supervisor" 
        width="600"/>
 </p>
+
 
 The system features:  
 - 💧 Rain detection to operate servo motors  
