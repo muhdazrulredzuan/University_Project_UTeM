@@ -38,13 +38,13 @@ Here are additional screenshots from the HMI interface:
 <p align="center">
   <img src="Main_Channel_HMI.png" 
        alt="HMI Main Channel" 
-       width="180"/> &nbsp;
+       width="280"/> &nbsp;
   <img src="MAP_201_HMI.png" 
-       alt="HMI View 2" 
-       width="180"/> &nbsp;
+       alt="HMI MAP 201" 
+       width="280"/> &nbsp;
   <img src="MAP_202_HMI.png" 
-       alt="HMI View 3" 
-       width="180"/>
+       alt="HMI MAP 202" 
+       width="280"/>
 </p>
 
 ---
