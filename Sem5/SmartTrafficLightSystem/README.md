@@ -11,12 +11,12 @@ It helps in understanding **IoT integration**, **real-time monitoring**, and **s
 
 ### Front View
 <p align="center">
-  <img src="frontview.png" alt="Smart Traffic Light Front View" width="600"/>
+  <img src="frontview.jpeg" alt="Smart Traffic Light Front View" width="600"/>
 </p>
 
 ### Back View
 <p align="center">
-  <img src="backview.png" alt="Smart Traffic Light Back View" width="600"/>
+  <img src="backview.jpeg" alt="Smart Traffic Light Back View" width="600"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@ It helps in understanding **IoT integration**, **real-time monitoring**, and **s
 ---
 
 ## 💻 Project Source Code
-🔗 [View Code]()
+🔗 [View Code](Project/Project.ino)
 
 ---
 
@@ -78,10 +78,10 @@ Sensors (simulated or real) detect traffic density and system adjusts traffic li
 ## 👥 Team Members
 
 <p align="center">
-  <img src="pejal.png" alt="Faisal Haqim" width="120" style="margin:10px"/>
-  <img src="azrul.png" alt="Azrul Redzuan" width="120" style="margin:10px"/>
-  <img src="qihah.png" alt="Nur Faqihah" width="120" style="margin:10px"/>
-  <img src="seri.png" alt="Nurseri" width="120" style="margin:10px"/>
+  <img src="pejal.jpeg" alt="Faisal Haqim" width="120" style="margin:10px"/>
+  <img src="azrul.jpeg" alt="Azrul Redzuan" width="120" style="margin:10px"/>
+  <img src="qihah.jpeg" alt="Nur Faqihah" width="120" style="margin:10px"/>
+  <img src="seri.jpeg" alt="Nurseri" width="120" style="margin:10px"/>
 </p>
 
 <p align="center">
