@@ -9,17 +9,12 @@ It helps in understanding **IoT integration**, **real-time monitoring**, and **s
 
 ## 🖼️ Project Images
 
-<p align="center">
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="frontview.jpeg" alt="Smart Traffic Light Front View" width="280"/>
-    <figcaption>Front View</figcaption>
-  </figure>
+## 🖼️ Project Images
 
-  <figure style="display:inline-block; margin:10px; text-align:center;">
-    <img src="backview.jpeg" alt="Smart Traffic Light Back View" width="280"/>
-    <figcaption>Back View</figcaption>
-  </figure>
-</p>
+| Front View | Back View |
+|------------|-----------|
+| <p align="center">Front View<br><img src="frontview.jpeg" alt="Smart Traffic Light Front View" width="280"/></p> | <p align="center">Back View<br><img src="backview.jpeg" alt="Smart Traffic Light Back View" width="280"/></p> |
+
 ---
 
 ## 📄 Project Report
