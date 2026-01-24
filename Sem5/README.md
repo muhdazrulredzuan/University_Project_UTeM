@@ -17,7 +17,7 @@ An intelligent traffic light control and monitoring system integrated with IoT t
 
 ---
 
-## 🛢️ [HMI Project – Oil & Gas Process Monitoring (InTouch)](./HMI_Oil_and_Gas_Project)
+## 🛢️ [HMI Project – Oil & Gas Process Monitoring (InTouch)](./HMI_Oil_and_Gas_and_P&ID)
 An industrial Human Machine Interface (HMI) project developed using **InTouch (Wonderware)** software, divided into two main parts:
 
 - **Process Monitoring System** – Real-time monitoring and visualization of oil & gas industrial process parameters.  
