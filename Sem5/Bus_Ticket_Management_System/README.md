@@ -52,6 +52,7 @@ The system is hosted using **InfinityFree** as the main web hosting platform, wi
 |------------|---------|
 | HTML / CSS | Front-end user interface |
 | PHP | Server-side scripting |
+| JavaScript | Chart and table |
 | MySQL | Database management |
 | InfinityFree | Web hosting and database platform |
 
