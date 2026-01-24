@@ -15,12 +15,12 @@ This project helps in understanding **web application development**, **database 
 ---
 
 ## 📄 Project Report
-📘 [View Report (PDF)](Bus_Ticket_Management_System_Report.pdf)
+📘 [View Report (PDF)](BusTicketManagementSystemReport.pdf)
 
 ---
 
 ## 📽️ Project Presentation
-🎬 [View Presentation (PDF/Slides)](Bus_Ticket_System_Presentation.pdf)  
+🎬 [View Presentation](https://youtu.be/RI23brqpTg4?si=VxmQjSZwQ3hUOF2l)  
 This presentation includes system overview, workflow diagrams, screenshots, and key learnings from the project.
 
 ---
