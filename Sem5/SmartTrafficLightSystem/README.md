@@ -9,25 +9,20 @@ It helps in understanding **IoT integration**, **real-time monitoring**, and **s
 
 ## 🖼️ Project Images
 
-### Front View
 <p align="center">
-  <img src="frontview.jpeg" alt="Smart Traffic Light Front View" width="600"/>
-</p>
-
-### Back View
-<p align="center">
-  <img src="backview.jpeg" alt="Smart Traffic Light Back View" width="600"/>
+  <img src="frontview.jpeg" alt="Smart Traffic Light Front View" width="280" style="margin:10px"/>
+  <img src="backview.jpeg" alt="Smart Traffic Light Back View" width="280" style="margin:10px"/>
 </p>
 
 ---
 
 ## 📄 Project Report
-📘 [View Report (PDF)](Smart Traffic Light.pdf)
+📘 [View Report (PDF)](Smart_Traffic_Light.pdf)
 
 ---
 
 ## 📽️ Project Presentation
-🎬 [View Presentation (PDF/Slides)](https://youtu.be/Y-ykNpIn4L4?si=uz3BsqIpdz1nq-As)
+🎬 [View Presentation](https://youtu.be/Y-ykNpIn4L4?si=uz3BsqIpdz1nq-As)
 
 ---
 
@@ -78,18 +73,18 @@ Sensors (simulated or real) detect traffic density and system adjusts traffic li
 ## 👥 Team Members
 
 <p align="center">
-  <img src="pejal.jpeg" alt="Faisal Haqim" width="120" style="margin:10px"/>
-  <img src="azrul.jpeg" alt="Azrul Redzuan" width="120" style="margin:10px"/>
-  <img src="qihah.jpeg" alt="Nur Faqihah" width="120" style="margin:10px"/>
-  <img src="seri.jpeg" alt="Nurseri" width="120" style="margin:10px"/>
+  <img src="azrul.jpeg" alt="Azrul Redzuan" width="140" style="margin:10px"/>
+  <img src="seri.jpeg" alt="Nurseri" width="140" style="margin:10px"/>
+  <img src="qihah.jpeg" alt="Nur Faqihah" width="140" style="margin:10px"/>
+  <img src="pejal.jpeg" alt="Faisal Haqim" width="140" style="margin:10px"/>
 </p>
 
-<p align="center">
-  <b>Azrul Redzuan</b> – Project Lead / IoT Integration &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Nurseri</b> – Hardware Setup / Sensor Interface &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Nur Faqihah</b> – Node-RED Dashboard Development &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Faisal Haqim</b> – Testing & Quality Assurance
-</p>
+| Name | Role |
+|------|------|
+| Azrul Redzuan | Project Lead / IoT Integration |
+| Nurseri | Hardware Setup / Sensor Interface |
+| Nur Faqihah | Node-RED Dashboard Development |
+| Faisal Haqim | Testing & Quality Assurance |
 
 ---
 
