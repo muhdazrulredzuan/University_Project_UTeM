@@ -11,7 +11,7 @@ This system allows users to manage bus schedules, ticket bookings, and basic pas
 
 ---
 
-## 🚦 [Smart Traffic Light System (IoT)](./Smart_Traffic_Light_System)
+## 🚦 [Smart Traffic Light System (IoT)](./SmartTrafficLightSystem)
 An intelligent traffic light control and monitoring system integrated with IoT technology.  
 **Node-RED** is used as the main monitoring dashboard to visualize traffic light status and system conditions in real time.
 
