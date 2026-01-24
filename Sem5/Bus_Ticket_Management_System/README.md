@@ -9,7 +9,7 @@ This project helps in understanding **web application development**, **database 
 
 ## 🖼️ Project Screenshot
 <p align="center">
-  <img src="Bus_Ticket_System.png" alt="BusTicketManagementSystem" width="600"/>
+  <img src="Bus_Ticket_System.png" alt="BusTicketManagementSystem.png" width="600"/>
 </p>
 
 ---
