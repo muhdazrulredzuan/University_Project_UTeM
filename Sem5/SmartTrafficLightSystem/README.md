@@ -8,12 +8,20 @@ It helps in understanding **IoT integration**, **real-time monitoring**, and **s
 ---
 
 ## 🖼️ Project Images
+<div align="center">
 
-## 🖼️ Project Images
+<table>
+  <tr>
+    <th>Front View</th>
+    <th>Back View</th>
+  </tr>
+  <tr>
+    <td><img src="frontview.jpeg" alt="Smart Traffic Light Front View" width="280"/></td>
+    <td><img src="backview.jpeg" alt="Smart Traffic Light Back View" width="280"/></td>
+  </tr>
+</table>
 
-| Front View | Back View |
-|------------|-----------|
-| <p align="center">Front View<br><img src="frontview.jpeg" alt="Smart Traffic Light Front View" width="280"/></p> | <p align="center">Back View<br><img src="backview.jpeg" alt="Smart Traffic Light Back View" width="280"/></p> |
+</div>
 
 ---
 
