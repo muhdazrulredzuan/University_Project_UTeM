@@ -15,7 +15,7 @@ This project helps in understanding **web application development**, **database 
 ---
 
 ## 📄 Project Report
-📘 [View Report (PDF)](BusTicketManagementSystemReport.pdf)
+📘 [View Report (PDF)](BusTicketManagementSystem.pdf)
 
 ---
 
