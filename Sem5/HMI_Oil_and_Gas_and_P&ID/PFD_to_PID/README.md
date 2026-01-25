@@ -11,6 +11,15 @@ The project helps in understanding process flow, instrumentation symbols, and de
 
 <table>
   <tr>
+    <th>PFD Diagram View</th>
+  </tr>
+  <tr>
+    <td><img src="PFD.png" alt="PFD Diagram View" width="800"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th>P&ID Diagram View</th>
   </tr>
   <tr>
