@@ -29,7 +29,7 @@ The system visualizes process parameters and operational status in real time, si
 ---
 
 ## 📽️ Project Video / Demonstration
-🎬 [Watch Project Video](https://youtu.be/YourVideoLinkHere)
+🎬 [Watch Project Video](https://youtu.be/C0QXc4uTLkg?si=JdMayDAzlWECJ_1j)
 
 ---
 
