@@ -7,25 +7,26 @@ The system visualizes process parameters and operational status in real time, si
 
 ## 🖼️ Project Images
 
+## 🖼️ Project Image
+
 <div align="center">
 
 <table>
   <tr>
     <th>Main HMI View</th>
-    <th>Process Overview</th>
   </tr>
   <tr>
-    <td><img src="frontview.jpeg" alt="Oil & Gas HMI Front View" width="300"/></td>
-    <td><img src="backview.jpeg" alt="Oil & Gas HMI Back View" width="300"/></td>
+    <td><img src="oil&gas.png" alt="Oil & Gas HMI Main View" width="400"/></td>
   </tr>
 </table>
 
 </div>
 
+
 ---
 
 ## 📄 Project Report
-📘 [View Report (PDF)](Oil_and_Gas_HMI_Report.pdf)
+📘 [View Report (PDF)](BERL3125_Assignment1.pdf)
 
 ---
 
