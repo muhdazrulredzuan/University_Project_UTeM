@@ -7,8 +7,6 @@ The system visualizes process parameters and operational status in real time, si
 
 ## 🖼️ Project Images
 
-## 🖼️ Project Image
-
 <div align="center">
 
 <table>
@@ -16,7 +14,7 @@ The system visualizes process parameters and operational status in real time, si
     <th>Main HMI View</th>
   </tr>
   <tr>
-    <td><img src="oil&gas.png" alt="Oil & Gas HMI Main View" width="400"/></td>
+    <td><img src="oil&gas.png" alt="Oil & Gas HMI Main View" width="800"/></td>
   </tr>
 </table>
 
